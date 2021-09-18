@@ -1,4 +1,4 @@
-### Olá, me chamo Andrei e sou estudande em desenvolvimento web fullstack!!👋
+### Hi, my name is Andrei and I'm a student in fullstack web development!!👋
 
 <div>
   <a href="https://github.com/Anndrei87">
