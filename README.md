@@ -1,4 +1,4 @@
-### Hi, my name is Andrei and I'm a student in fullstack web development!!👋
+### Hi, my name is Andrei and I'm a student in flutter and fullstack web development!!👋
 
 <div>
   <a href="https://github.com/Anndrei87">
